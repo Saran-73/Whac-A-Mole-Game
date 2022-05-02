@@ -19,10 +19,10 @@ function moleAppear(){
 }
 
 box.forEach(y=>{
-    y.addEventListener('mouseup',)
-    if(y.id=== hitid){
+//     y.addEventListener('mouseup',)
+//     if(y.id=== hitid){
 
-    }
+//     }
 })
 
 
