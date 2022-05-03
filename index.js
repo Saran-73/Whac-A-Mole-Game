@@ -23,8 +23,9 @@ box.forEach(y=>{
 //     if(y.id=== hitid){
 
 //     }
-})
 
+})
+ 
 
 
 
